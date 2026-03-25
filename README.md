@@ -48,7 +48,7 @@
 pip install mov-cli
 
 # From source
-git clone https://github.com/mov-cli/mov-cli
+git clone https://github.com/Maron09/Mov-cli.git
 cd mov-cli
 pip install -e .
 ```

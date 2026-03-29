@@ -9,3 +9,4 @@ build/
 *.log
 .ruff_cache/
 .pytest_cache/
+env
